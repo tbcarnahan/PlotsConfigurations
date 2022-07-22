@@ -6,7 +6,7 @@ tag = 'ggH2018_v7_11_11'
 # tag = 'ggH2018_v7_noFakes'
 
 # used by mkShape to define output directory for root files
-outputDir = 'rootFile'
+outputDir = 'rootFile_SMHiggsProp'
 
 # file with TTree aliases
 aliasesFile = 'aliases.py'
@@ -21,7 +21,7 @@ cutsFile = 'cuts.py'
 samplesFile = 'samples.py' 
 
 # file with list of samples
-plotFile = 'plot.py' 
+plotFile = 'plot_SMHiggsProp.py' 
 
 # luminosity to normalize to (in 1/fb)
 lumi = 59.74
